@@ -4,9 +4,9 @@ username: jbpost2
 account: jbpost2
 server: shiny.stat.ncsu.edu
 hostUrl: https://shiny.stat.ncsu.edu/__api__
-appId: 16
-bundleId: 283
-url: https://shiny.stat.ncsu.edu/jbpost2/Focus_Lesson_Landing/
+appId: 8
+bundleId: 30
+url: https://shiny.stat.ncsu.edu/jbpost2/Focus_Lesson_Landing_Page/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
